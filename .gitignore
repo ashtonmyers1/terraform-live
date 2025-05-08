@@ -1,0 +1,10 @@
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.hcl
+terraform-provider-aws_v5.94.1_x5.exe
+terraform-provider-aws_v5.95.0_x5.exe
+terraform-provider-aws_v5.96.0_x5.exe
+terraform-provider-aws_v5.95.0_x5.exe
+environment
+modules.json
+LICENSE.TXT
